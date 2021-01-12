@@ -1,0 +1,22 @@
+/* starts with an element to select, key value pairs for speicific element properties*/
+body {
+  color: black;
+}
+h1 {
+  background-color: black;
+  color: white;
+  width: 50%;
+}
+/* This is how to color the P tags with selectors */
+/* p:nth-child(1) {
+  color: tomato;
+}
+p:nth-child(2) {
+  color:teal;
+}
+p:nth-child(3) {
+  color: palevioletred;
+}
+p:nth-child(4) {
+  color: palegreen;
+} */
