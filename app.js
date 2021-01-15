@@ -186,3 +186,11 @@ colorGuess();
 alert('Thank you ' + username + ' for playing my guessing game! You had ' + wrongGuesses + ' wrong guesses and ' + correctGuesses + ' correct guesses!');
 
 //stretch goals
+
+// Work from collections of like data: Create 3 arrays, one for each of: your questions, the correct answers, and the two possible responses. (The same applies if you’ve added in any other pieces to the questions besides the most basic structure.) Replace that content in the functions by accessing the arrays.
+
+// Make it DRY: Reduce the yes/no questions from five functions to one function, and then use a ‘for’ loop to iterate through the arrays and call the function for each question.
+
+// Code review: Take time to explore each other’s CSS and talk about how it is organized and what it is doing. Make suggestions for how it can be improved. Integrate your partner’s suggestions to improve your own styling.
+
+// Improve accessibility: Collaborate on achieving better scores on accessibility audits. Include a screenshot of your new audit score in your README.md file.
