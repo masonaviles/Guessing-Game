@@ -1,11 +1,7 @@
 /* starts with an element to select, key value pairs for speicific element properties*/
 body {
   color: black;
-}
-h1 {
-  background-color: black;
-  color: white;
-  width: 50%;
+  background-color: gainsboro;
 }
 /* This is how to color the P tags with selectors */
 /* p:nth-child(1) {
@@ -20,3 +16,49 @@ p:nth-child(3) {
 p:nth-child(4) {
   color: palegreen;
 } */
+
+/* GRID SECTION */
+.grid {
+  display: grid;
+  grid-template-columns: 25% 25% 25%;
+  column-gap: 1em;
+  row-gap: 1em;
+  margin: 3em 8vw 0em;
+  justify-content: center;
+}
+
+nav {
+  display: flex;
+  background-color: black;
+  color: white;
+}
+h1 {
+text-align: center;
+  width: 50%;
+}
+section.card:nth-child(even) {
+  background-color: salmon;
+}
+section.card:nth-child(odd) {
+  background-color: skyblue;
+}
+
+.card {
+  min-height: 8em;
+}
+
+.card .back {
+  display: none;
+}
+
+.card .front {
+  display: grid;
+  justify-content: center;
+  align-content: center;
+}
+
+.card .front p {
+  display: block;
+  font-size: 3em;
+  line-height: 1em;
+}
