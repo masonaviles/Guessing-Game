@@ -47,7 +47,7 @@ section.card:nth-child(odd) {
   min-height: 8em;
 }
 
-.card .back {
+.card .hide {
   display: none;
 }
 

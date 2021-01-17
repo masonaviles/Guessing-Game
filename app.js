@@ -194,3 +194,7 @@ alert('Thank you ' + username + ' for playing my guessing game! You had ' + wron
 // Code review: Take time to explore each other’s CSS and talk about how it is organized and what it is doing. Make suggestions for how it can be improved. Integrate your partner’s suggestions to improve your own styling.
 
 // Improve accessibility: Collaborate on achieving better scores on accessibility audits. Include a screenshot of your new audit score in your README.md file.
+
+
+
+// Card Functionality 
