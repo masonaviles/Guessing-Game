@@ -1,7 +1,8 @@
 # Guessing-Game
 ------
-
-A lab assignment from Codefellows 201.
+  
+# LAB - Class 2 - 5
+## Project: Chocolate-Pizza
 
 **Objective**: to demonstrate an understanding in HTML structure, CSS styles and layout, and basic Javascript.
 
@@ -15,3 +16,15 @@ A lab assignment from Codefellows 201.
   * use loops and array to handle user values from prompts
   * create and use functions
   * (to be added) DOM manipulation & user interaction
+
+### Author: Mason Aviles
+<!-- 
+### Links and Resources
+- [Flexbox Malven](https://flexbox.malven.co/)
+- [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
+- [front-end application](http://xyz.com) (when applicable)
+-->
+<!-- 
+### UML
+- [Design Comp](design-comp.jpg)
+-->
